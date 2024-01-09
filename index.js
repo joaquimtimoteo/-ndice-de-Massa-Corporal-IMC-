@@ -29,4 +29,4 @@ const resulted= document.getElementById("resulted");
  }
 
 
-Calcular.addEventListener("click", IMC);
+Calcular.addEventListener("click", IMC);  
